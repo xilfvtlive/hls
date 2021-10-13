@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://140.238.229.213/sp1/tracks-v1a1/mono.m3u8
+http://93.152.174.144:4000/play/ss1in/index.m3u8
