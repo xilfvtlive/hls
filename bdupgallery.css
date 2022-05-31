@@ -13,7 +13,7 @@ body{
     top: 30%;
     left: 50%;
     overflow: hidden;
-    border: 20px solid #6e93f7;
+    border: 10px solid #6e93f7;
     border-radius: 8px;
     box-shadow: 10px 25px 30px rgba(30,30,200,0.3);
 }
