@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://indian.gcdn.co/STARSPORTSHD1/tracks-v1a1/mono.m3u8
+https://rana-pk.ga/api/star/get.php?id=14000&e=.m3u8
