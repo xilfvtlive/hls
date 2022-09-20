@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://rana-pk.ga/api/star/get.php?id=14000&e=.m3u8
+http://103.16.24.54:8080/channel1/index.m3u8
